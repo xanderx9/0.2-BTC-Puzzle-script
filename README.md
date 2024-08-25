@@ -54,7 +54,7 @@ Follow these steps to run the script:
 
 8. **Run the script:**
     ```bash
-    python3 check_seed_phrases.py
+    python3 check_seed_combinations.py
     ```
 
 9. **Follow the on-screen instructions as the script processes the seed words and checks against the Bitcoin address.**
